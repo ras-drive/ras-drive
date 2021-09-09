@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ras-drive
-- 👀 I’m interested in Python, Machine Learning, Steam Proton, and Web Dev
-- 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate on Python 3 related projects
+- 👀 I’m interested in Linux, C++, Steam Proton, and Java
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on C++ Desktop application projects
 - 📫 You can reach me at rasdrive4165@protonmail.com
 
 <!---
