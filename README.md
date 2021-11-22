@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ras-drive
+- 👋 Hi, I’m @ras-drive (Sarah)
 - 👀 I’m interested in Linux, Java, Steam Proton, and JavaFX
 - 🌱 I’m currently learning Advanced Data Structures
 - 💞️ I’m looking to collaborate on Java Desktop application projects
