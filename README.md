@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ras-drive (Sarah)
 - 👀 I’m interested in Linux, Steam Proton, and Rust
-- 🌱 I’m currently learning Advanced Data Structures and Rust
+- 🌱 I’m currently learning React and Rust backend tech
 - 💞️ I’m looking to collaborate on Rust projects
 - 📫 You can reach me at rasdrive4165@protonmail.com
 
