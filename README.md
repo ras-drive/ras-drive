@@ -8,7 +8,7 @@ I'm a trans girl who enjoys coding in their free time along with music and video
 
 <img src="https://github-readme-stats.vercel.app/api?username=ras-drive&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
-<a href="https://stackoverflow.com/users/17483600/sarah?theme=dark"><img src="https://stackoverflow.com/users/flair/17483600.png" width="208" height="58" alt="profile for Sarah at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sarah at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/17483600/sarah"><img src="https://stackoverflow.com/users/flair/17483600.png?theme=dark" width="208" height="58" alt="profile for Sarah at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sarah at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!---
 ras-drive/ras-drive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
